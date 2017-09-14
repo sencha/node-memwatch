@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/craigcomstocks/node-memwatch.git"
+    "url": "https://github.com/sencha/node-memwatch.git"
   },
   "main": "include.js",
   "licenses": [
@@ -35,7 +35,7 @@
     "Justin Matthews (@jmatthewsr-ms)"
   ],
   "dependencies": {
-    "bindings": "craigcomstocks/node-bindings#find-by-abi",
+    "bindings": "sencha/node-bindings#find-by-abi",
     "nan": "^2.3.2"
   }
 }
